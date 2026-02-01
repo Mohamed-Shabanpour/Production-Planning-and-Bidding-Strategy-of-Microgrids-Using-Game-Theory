@@ -6,3 +6,4 @@ A microgrid (MG) is part of a power generation system, which independently serve
 Keywords: Microgrid, Production Planning, Competitive Market, Game Theory
   
 This project was a collaborations between Mrs. Ayani and Myself.
+This work was conducted as part of a joint research collaboration. A formal letter of recommendation from the co-author confirming my contributions is available upon request.
